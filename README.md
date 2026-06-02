@@ -131,7 +131,7 @@ The notebook is structured as a complete end-to-end analysis:
 ---
 
 ## Author
-**Anugrah Sarkar**  
+**Anurag Sarkar**  
 Email : sarkaranurag73@gmail.com     
 [LinkedIn](www.linkedin.com/in/anusarsarkar73/)  
  [GitHub](github.com/AnuragS73)
